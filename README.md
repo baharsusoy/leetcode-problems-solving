@@ -44,5 +44,6 @@ Solutions are automatically synchronized and structured directly at the root dir
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/baharsusoy/LeetCode/tree/master/0009-palindrome-number) |
 | [2235-add-two-integers](https://github.com/baharsusoy/LeetCode/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
